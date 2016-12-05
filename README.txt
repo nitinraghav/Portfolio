@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/nitinraghav/pen/NbPRQJ.
+Click link to see this code in action  http://codepen.io/nitinraghav/pen/NbPRQJ.
 
  
