@@ -1,3 +1,4 @@
-Click link to see this code in action  http://codepen.io/nitinraghav/pen/NbPRQJ.
+My personal portfolio that enlists the latest projects undertaken, a small description about me and offcourse the contact details if you like to get in touch with me.
+
 
  
