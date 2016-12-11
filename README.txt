@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/nitinraghav/pen/NbPRQJ.
+My personal portfolio that enlists the latest projects undertaken, a small description about me and offcourse the contact details if you like to get in touch with me.
+
 
  
